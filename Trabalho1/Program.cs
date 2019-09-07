@@ -16,7 +16,7 @@ namespace Trabalho1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Retas());
+            Application.Run(new Home());
         }
     }
 }

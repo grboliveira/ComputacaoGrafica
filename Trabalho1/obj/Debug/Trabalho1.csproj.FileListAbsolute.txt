@@ -11,3 +11,6 @@ F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalh
 F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Circunferencia.resources
 F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Retas.resources
 F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Recorte.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Cohen.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Home.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Liang_Barsky.resources

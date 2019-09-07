@@ -31,6 +31,7 @@ namespace Trabalho1
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            image = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             int xc = Convert.ToInt32(textBox1.Text);
             int yc = Convert.ToInt32(textBox2.Text);
             int r = Convert.ToInt32(textBox3.Text);
@@ -54,8 +55,8 @@ namespace Trabalho1
                 plot_circle_points(xc, yc, x, y);
 
             }
-            
-            
+            pictureBox1.Image = image;
+
         }
 
         private void plot_circle_points(int xc, int yc, int x, int y)

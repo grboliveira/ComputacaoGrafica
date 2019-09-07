@@ -52,6 +52,24 @@
     <Compile Include="Circunferencia.Designer.cs">
       <DependentUpon>Circunferencia.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cohen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cohen.Designer.cs">
+      <DependentUpon>Cohen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Liang-Barsky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Liang-Barsky.Designer.cs">
+      <DependentUpon>Liang-Barsky.cs</DependentUpon>
+    </Compile>
     <Compile Include="Retas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +92,15 @@
     </Compile>
     <EmbeddedResource Include="Circunferencia.resx">
       <DependentUpon>Circunferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cohen.resx">
+      <DependentUpon>Cohen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Liang-Barsky.resx">
+      <DependentUpon>Liang-Barsky.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Retas.resx">
       <DependentUpon>Retas.cs</DependentUpon>
