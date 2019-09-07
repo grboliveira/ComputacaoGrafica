@@ -1,0 +1,13 @@
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\bin\Debug\Trabalho1.exe.config
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\bin\Debug\Trabalho1.exe
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\bin\Debug\Trabalho1.pdb
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Properties.Resources.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.csproj.GenerateResource.cache
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.exe
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.pdb
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Translacoes2D.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Circunferencia.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Retas.resources
+F:\Guilherme Barbosa\Faculdade\Computação Gráfica\Trabalho1\obj\Debug\Trabalho1.Recorte.resources
