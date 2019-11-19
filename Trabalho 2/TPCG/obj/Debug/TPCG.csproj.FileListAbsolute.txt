@@ -1,0 +1,9 @@
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\bin\Debug\TPCG.exe.config
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\bin\Debug\TPCG.exe
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\bin\Debug\TPCG.pdb
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.csprojAssemblyReference.cache
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.Properties.Resources.resources
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.csproj.GenerateResource.cache
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.exe
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.pdb
+F:\Users\Guilherme Barbosa\Desktop\CG\TP\TPCG\obj\Debug\TPCG.tela.resources
